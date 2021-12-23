@@ -1,15 +1,13 @@
-# climbing-training-resources
 Linksamulung rund ums Klettertraining
-
 
 ## Bücher zum Thema
 Die Standardwerke bzgl. Klettertraining sind sicherlich
-- Peak performance von Guido Köstermeyer (shorturl.at/fEW25) und
-- Training for Climbing von Eric Hörst (shorturl.at/yJPT3)
-Darin werden auch die theoretischen Grundlagen der Trainingslehre abgehandelt.
+- [Peak performance von Guido Köstermeyer](https://www.amazon.de/Peak-Performance-Klettertechnik-Klettertraining-Z/dp/3945271215) und
+- [Training for Climbing von Eric Hörst](https://trainingforclimbing.com/buy-books/training-for-climbing-3rd-edition-2016/) bei [Amazon](https://www.amazon.de/Training-Climbing-Definitive-Improving-Performance/dp/1493017616/ref=sr_1_1?crid=27S87BUF52J1D&keywords=training+for+climbing&qid=1640269863&s=books&sprefix=training+for+%2Cstripbooks%2C117&sr=1-1)
+Darin werden (auch) die theoretischen Grundlagen der Trainingslehre abgehandelt. Das "Training for Climbing" habe ich selbst nicht gelesen, aber viel Gutes darüber gehört. "Peak performance" ist aus sportwissenschaftlicher Sicht sehr solide, hat mir aber irgendwie nicht so richtig geholfen mir selbst einen Plan zu machen. Wahrscheinlich müssste ich es nochmal lesen.
 
 Ein Buch das sich eher auf Bewegungslehre fürs Klettern fokussiert wäre
- - Die 4. Dimension von Gerald Krug (shorturl.at/krsHK)
+ - [Die 4. Dimension von Gerald Krug](https://geoquest-shop.de/Die-4-Dimension)
 Darin gibts auch ein oder zwei Kapitel zum Thema speztifisches Klettertraining. Also wie man einen Trainingsplan erstellt, Periodisierung etc.
 
 Die Gimme Kraft (shorturl.at/xBC79) und Gimme Kraft Air (shorturl.at/lmswN) Bücher sind eine tolle Inspiration für Übungen die man an der Wand und zu Hause machen kann. Wenn man schon weiss welche Aspekte man trainieren möchte kann man sich dort bedienen.
