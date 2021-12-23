@@ -14,9 +14,7 @@ Darin gibts ein oder zwei Kapitel zum Thema speztifisches Klettertraining, also 
 
 Bzgl. Techniktraining fand ich das Buch [Rock Climbing Technique von John Kettle](https://www.johnkettle.com/product-page/rock-climbing-technique-paperback) sehr schön. Es beschreibt eine Reihe von Technik-drills die den Fokus auf bestimmte Klettertechniken lege. Z.B. sauberes Antreten, Eindrehen, dynamisch Klettern etc. pp. Solche Technikübungen kann man schön in die Erwährmung einbauen, oder an "Pausetagen" machen, wenn man sich noch von der Krafteinheit am Vortag erholt :).
 
-Alles zum Thema Fingerboarding beschreibt das Buch [Beastmaking von Ned Feehally](https://www.orellfuessli.ch/shop/home/artikeldetails/A1061949090). Es beschreibt schön wie man ein Board/Systemwand (zB. Moonboard) und eine Hangboard effektiv für spezifisches Training nutzen kann.
-
-Bis auf "Training for Climbing von Eric Hörst“ habe ich die Bücher in meiner Bibliothek und kann sie dir gern ausleihen.
+Alles zum Thema Fingerboarding liefert das Buch [Beastmaking von Ned Feehally](https://www.orellfuessli.ch/shop/home/artikeldetails/A1061949090). Es beschreibt schön wie man ein Board/Systemwand (z.B. Moonboard) und eine Hangboard effektiv für spezifisches Training nutzen kann.
 —————————————————————————
 
 —————— Podcasts zum Thema —————————
@@ -43,4 +41,11 @@ https://www.trainingbeta.com Blog, Podcast, und Trainingspläne… (kommerziell)
 
 # Bibliothek
 
+Bis auf "Training for Climbing von Eric Hörst“ habe ich die Bücher in meiner Bibliothek und kann sie gern ausleihen.
 
+- [Peak performance von Guido Köstermeyer](https://www.amazon.de/Peak-Performance-Klettertechnik-Klettertraining-Z/dp/3945271215)
+- [Die 4. Dimension von Gerald Krug](https://geoquest-shop.de/Die-4-Dimension)
+- [Die Gimme Kraft](https://www.baechli-bergsport.ch/Sachbücher-Gimme-Kraft-Gimme-Kraft-Sachbücher-De.htm)
+- [Gimme Kraft Air](https://pizbube.ch/shop/gimme-kraft-air/)
+- [Rock Climbing Technique von John Kettle](https://www.johnkettle.com/product-page/rock-climbing-technique-paperback)
+- [Beastmaking von Ned Feehally](https://www.orellfuessli.ch/shop/home/artikeldetails/A1061949090)
