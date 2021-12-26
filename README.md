@@ -21,8 +21,8 @@ Kletterverletzung und wie man sie behandelt
 ## Podcasts
 Podcasts kann man schön nebenbei hören
 - [Training for Climbing von Eric Hörst](https://trainingforclimbing.com/category/podcasts/page/1/) -> alles übers Klettertraining ...
- - Podcast #10: [Maximum Strength Fingerboard Training](https://trainingforclimbing.com/podcast-10-maximum-strength-fingerboard-training/)
- - Podcast #59: [Back to Basics – Effective Training for Climbing](https://trainingforclimbing.com/podcast-59-effective-training-for-climbing/)
+        - Podcast #10: [Maximum Strength Fingerboard Training](https://trainingforclimbing.com/podcast-10-maximum-strength-fingerboard-training/)
+        - Podcast #59: [Back to Basics – Effective Training for Climbing](https://trainingforclimbing.com/podcast-59-effective-training-for-climbing/)
 
 - [The nugget climbing podcast](https://thenuggetclimbing.com) -> Interviews mit Kletterern, Trainern etc.
  - [EP 56: Dave MacLeod (Part 1)](https://thenuggetclimbing.com/episodes/dave-macleod-part-1)
