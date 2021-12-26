@@ -16,15 +16,24 @@ Bzgl. Techniktraining fand ich das Buch [Rock Climbing Technique von John Kettle
 
 Alles zum Thema Fingerboarding liefert das Buch [Beastmaking von Ned Feehally](https://www.orellfuessli.ch/shop/home/artikeldetails/A1061949090). Es beschreibt schön wie man ein Board/Systemwand (z.B. Moonboard) und eine Hangboard effektiv für spezifisches Training nutzen kann.
 
+Kletterverletzung und wie man sie behandelt
+
 ## Podcasts
 Podcasts kann man schön nebenbei hören
-- Training for Climbing von Eric Hörst (shorturl.at/hiyQY) -> alles übers Klettertraining ...
-- The nugget climbing podcast (shorturl.at/isuBH) -> Interviews mit Kletterern, Trainern etc.
-- The Power Company Podcast (shorturl.at/uxCR1) -> Interviews mit Kletterern, Trainern etc.
+- [Training for Climbing von Eric Hörst](https://trainingforclimbing.com/category/podcasts/page/1/) -> alles übers Klettertraining ...
+ - Podcast #10: [Maximum Strength Fingerboard Training](https://trainingforclimbing.com/podcast-10-maximum-strength-fingerboard-training/)
+ - Podcast #59: [Back to Basics – Effective Training for Climbing](https://trainingforclimbing.com/podcast-59-effective-training-for-climbing/)
+
+- [The nugget climbing podcast](https://thenuggetclimbing.com) -> Interviews mit Kletterern, Trainern etc.
+ - [EP 56: Dave MacLeod (Part 1)](https://thenuggetclimbing.com/episodes/dave-macleod-part-1)
+
+- [The Power Company Podcast](https://www.powercompanyclimbing.com/podcast/) -> Interviews mit Kletterern, Trainern etc.
 
 ## Apps, Blogs und Websites
 [Lattice training](https://latticetraining.com) + [App crimpd](https://play.google.com/store/apps/details?id=com.crimpd.ui&hl=en_US&gl=US)
 Die App bietet eine schöne Sammlung von Übungen (auch for free) für alle Bereiche die man trainieren möchte; Kraft, Kraftausdauer, Explosivkraft, Warmup, Fingerkraft usw. usf. Das hat mir den Einstieg in eine strukturiertes Training erleichtert.
+
+Training Programs for Climbers [T4C free download!](https://trainingforclimbing.com/training-programs/)
 
 [powercompanyclimbing](https://www.powercompanyclimbing.com) die Verkaufen custom Trainingspläne aber auch z.B. one-fits-all Pläne für verschiedene Niveaus (E-book Plans). Hier ist evtl. der „Just climb more Boulders“ Plan für Anfänger interessant, kostet allerdings einmalig 25$ :/. 
 
