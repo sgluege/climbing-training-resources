@@ -1,23 +1,17 @@
-#Let’s break this mini-course down.
+## The 4 Fundamentals of Building an Effective Climbing Training Program
 
-For the next 4 days, you’re going to receive an email in which I’ll discuss each of those 4 fundamentals. Day 1 is today a little farther down this page.
-
-You’ll have a “homework” assignment in each day’s email so you can stay on track and get started building your program right away.
+The following section will discuss 4 fundamentals to enbale you to build your own training program. It will give you "homework" assignments for each section to get you started right away.
 
 By the end of this mini-course--if you’ve done all the homework--you should have the beginnings of an effective climbing training program already created for yourself.
 
-
-The 4 Fundamentals of Building an Effective Climbing Training Program
-
-Day 1 (TODAY!): Build Your Program around a Goal
-Day 2: Target What’s Holding You Back from Reaching Your Goal
-Day 3: How to Structure Your Program
-Day 4: How to Structure Your Sessions
+Section 1: Build Your Program around a Goal
+Section 2: Target What’s Holding You Back from Reaching Your Goal
+Section 3: How to Structure Your Program
+Section 4: How to Structure Your Sessions
 
 Sound good? Let’s get started. 
 
-
-Training Fundamental #1: Build Your Program around a Goal
+### Fundamental #1: Build Your Program around a Goal
 The objective of any training program should be to help you reach your climbing goals.
 
 Whether that’s climbing V10, 5.13, 5.11, or El Cap, a training program is only a good one if it helps you get there. What your goals are is up to you. The more specific your goals are, the better.
