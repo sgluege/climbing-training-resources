@@ -4,10 +4,10 @@ The following section will discuss 4 fundamentals to enbale you to build your ow
 
 By the end of this mini-course--if you’ve done all the homework--you should have the beginnings of an effective climbing training program already created for yourself.
 
-Section 1: Build Your Program around a Goal
-Section 2: Target What’s Holding You Back from Reaching Your Goal
-Section 3: How to Structure Your Program
-Section 4: How to Structure Your Sessions
+- Section 1: Build Your Program around a Goal
+- Section 2: Target What’s Holding You Back from Reaching Your Goal
+- Section 3: How to Structure Your Program
+- Section 4: How to Structure Your Sessions
 
 Sound good? Let’s get started. 
 
