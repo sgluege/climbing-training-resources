@@ -12,7 +12,7 @@ Darin gibts ein oder zwei Kapitel zum Thema speztifisches Klettertraining, also 
 
 [Die Gimme Kraft](https://www.baechli-bergsport.ch/Sachbücher-Gimme-Kraft-Gimme-Kraft-Sachbücher-De.htm) und [Gimme Kraft Air](https://pizbube.ch/shop/gimme-kraft-air/) Bücher sind eine tolle Inspiration für Übungen die man an der Wand und zu Hause machen kann. Wenn man schon weiss welche Aspekte man trainieren möchte kann man sich dort bedienen.
 
-Bzgl. Techniktraining fand ich das Buch [Rock Climbing Technique von John Kettle](https://www.johnkettle.com/product-page/rock-climbing-technique-paperback) sehr schön. Es beschreibt eine Reihe von Technik-drills die den Fokus auf bestimmte Klettertechniken lege. Z.B. sauberes Antreten, Eindrehen, dynamisch Klettern etc. pp. Solche Technikübungen kann man schön in die Erwährmung einbauen, oder an "Pausetagen" machen, wenn man sich noch von der Krafteinheit am Vortag erholt :).
+Bzgl. Techniktraining fand ich das Buch [Rock Climbing Technique von John Kettle](https://www.johnkettle.com/product-page/rock-climbing-technique-paperback) sehr schön. Es beschreibt eine Reihe von Technik-drills die den Fokus auf bestimmte Klettertechniken lege. Z.B. sauberes Antreten, Eindrehen, dynamisch Klettern etc. pp. Solche Technikübungen kann man schön in die Erwärmung einbauen, oder an "Pausetagen" machen, wenn man sich noch von der Krafteinheit am Vortag erholt :).
 
 Alles zum Thema Fingerboarding liefert das Buch [Beastmaking von Ned Feehally](https://www.orellfuessli.ch/shop/home/artikeldetails/A1061949090). Es beschreibt schön wie man ein Board/Systemwand (z.B. Moonboard) und eine Hangboard effektiv für spezifisches Training nutzen kann.
 
