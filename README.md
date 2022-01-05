@@ -21,16 +21,16 @@ Kletterverletzung und wie man sie behandelt erklärt Dave Macleod ganz hervorrag
 ## Podcasts
 Podcasts kann man schön nebenbei hören
 - [Training for Climbing von Eric Hörst](https://trainingforclimbing.com/category/podcasts/page/1/) - alles übers und rund ums Klettertraining
-  - Podcast #10: [Maximum Strength Fingerboard Training](https://trainingforclimbing.com/podcast-10-maximum-strength-fingerboard-training/)
-  - Podcast #59: [Back to Basics – Effective Training for Climbing](https://trainingforclimbing.com/podcast-59-effective-training-for-climbing/)
+  - EP #10: [Maximum Strength Fingerboard Training](https://trainingforclimbing.com/podcast-10-maximum-strength-fingerboard-training/)
+  - EP #59: [Back to Basics – Effective Training for Climbing](https://trainingforclimbing.com/podcast-59-effective-training-for-climbing/)
 
 - [The nugget climbing podcast](https://thenuggetclimbing.com) - Interviews mit Kletterern, Trainern etc.
-  - [EP 56: Dave MacLeod (Part 1)](https://thenuggetclimbing.com/episodes/dave-macleod-part-1)
+  - EP #56: [Dave MacLeod (Part 1)](https://thenuggetclimbing.com/episodes/dave-macleod-part-1)
 
 - [The Power Company Podcast](https://www.powercompanyclimbing.com/podcast/) - Interviews mit Kletterern, Trainern etc.
 
-- [Breaking Beta](https://breakingbeta.podbean.com) - Zwei Klettertrainer diskutieren wissenschaftliche Veröffentlichungen bzgl. ihrer Anwendbarkeit aufs Klettertraining. "Kris Hampton and Paul Corsaro from Power Company Climbing and Crux Conditioning discuss the research and studies that may or may not be applicable to the climbing."
-  - [Is This the Best Hangboard Protocol?](https://breakingbeta.podbean.com/e/the-best-hangboard-protocol/)  López-Rivera, Eva & González-Badillo, Juan. (2012). [The effects of two maximum grip strength training methods using the same effort duration and different edge depth on grip endurance in elite climbers.](https://www.researchgate.net/profile/Eva-Lopez-Rivera/publication/254368989_The_effects_of_two_maximum_grip_strength_training_methods_using_the_same_effort_duration_and_different_edge_depth_on_grip_endurance_in_elite_climbers/links/5bb4924e92851ca9ed374453/The-effects-of-two-maximum-grip-strength-training-methods-using-the-same-effort-duration-and-different-edge-depth-on-grip-endurance-in-elite-climbers.pdf) Sports Technology. 5. 1-11. 10.1080/19346182.2012.716061.
+- [Breaking Beta | The Science of Climbing](https://breakingbeta.podbean.com) - Zwei Klettertrainer diskutieren wissenschaftliche Veröffentlichungen bzgl. ihrer Anwendbarkeit aufs Klettertraining. "Kris Hampton and Paul Corsaro from Power Company Climbing and Crux Conditioning discuss the research and studies that may or may not be applicable to the climbing."
+  - EP #1: [Is This the Best Hangboard Protocol?](https://breakingbeta.podbean.com/e/the-best-hangboard-protocol/)  López-Rivera, Eva & González-Badillo, Juan. (2012). [The effects of two maximum grip strength training methods using the same effort duration and different edge depth on grip endurance in elite climbers.](https://www.researchgate.net/profile/Eva-Lopez-Rivera/publication/254368989_The_effects_of_two_maximum_grip_strength_training_methods_using_the_same_effort_duration_and_different_edge_depth_on_grip_endurance_in_elite_climbers/links/5bb4924e92851ca9ed374453/The-effects-of-two-maximum-grip-strength-training-methods-using-the-same-effort-duration-and-different-edge-depth-on-grip-endurance-in-elite-climbers.pdf) Sports Technology. 5. 1-11. 10.1080/19346182.2012.716061.
 
 ## Apps, Blogs und Websites
 [Lattice training](https://latticetraining.com) + [App crimpd](https://play.google.com/store/apps/details?id=com.crimpd.ui&hl=en_US&gl=US)
