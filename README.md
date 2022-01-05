@@ -1,4 +1,4 @@
-Linksamulung rund ums Klettertraining
+Linksammlung rund ums Klettertraining
 
 ## Bücher
 Die Standardwerke bzgl. Klettertraining sind sicherlich
