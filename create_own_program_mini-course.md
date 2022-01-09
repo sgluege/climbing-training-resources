@@ -80,8 +80,8 @@ Do whatever you need to do to find the answer to that, whether it’s talking to
 ### Training Fundamental #3: How to Structure Your Program
 
 It’s important to remember that "periodization" simply refers to a system used to structure your training. While there are different types of periodization, we can simplify it by talking about linear and non-linear models:
-- Linear: you go through different 4-8-week cycles where you focus on training one main thing - whether it be strength, strength endurance, power, or skill development. Once you’re done training that one thing, you move onto the next cycle and train the next thing.
-- Non-Linear: you train multiple attributes at the same time but FOCUS more on one particular attribute for each cycle.
+- __Linear__: you go through different 4-8-week cycles where you focus on training one main thing - whether it be strength, strength endurance, power, or skill development. Once you’re done training that one thing, you move onto the next cycle and train the next thing.
+- __Non-Linear__: you train multiple attributes at the same time but FOCUS more on one particular attribute for each cycle.
 
 So that’s the difference.
 
@@ -193,10 +193,7 @@ Then there’s finger training, and there are LOTS of finger protocols out there
 
 Many protocols will help you, especially if you’ve never trained fingers before. You can combine a finger training session with a strength workout for a complete strength session.
 
-​
-
-Effective Power Sessions
-
+#### Effective Power Sessions
 Power is strength expressed with speed.
 
 Think of it as the difference between being able to hold onto a crimp if you grab it slowly and being able to grab it when moving to it dynamically. Developing power is important for climbers as a lot of moves simply can’t be done statically.
@@ -209,10 +206,7 @@ You don’t need to even have the goal of sending boulders with limit bouldering
 
 This is just as effective for route climbers as it is for boulderers. In fact, one of the best things you can do for yourself as a route climber is to BOULDER!
 
-​
-
-Effective Endurance Sessions for Route Climbers
-
+#### Effective Endurance Sessions for Route Climbers
 Endurance is our ability to maintain submaximal efforts for many moves at a time. I don’t normally include endurance work into boulderers’ training programs, but for route climbers, there are a couple different kinds of endurance to focus on: aerobic endurance and power endurance.
 
 With aerobic endurance, you want to do sets of 3 or 4 routes that are approximately 2 number grades below your project goal for 3-4 sets. You should not get terminally pumped during this workout. The goal is instead to spend an extended period of time at an intensity right below your pump threshold.
@@ -223,10 +217,7 @@ This is where you do 7-10 boulder problems at your flash level, 1 per minute, th
 
 Make sure the boulders are short enough that they only take 20-25 seconds to climb. The reason for this is that you don’t want the work side of the work:rest ratio to be longer than the rest. Boards like the Moon Board, Tension Board, or Kilter Board work well for this but you can always simply pick a “finish” hold on a set boulder to get the correct length boulder.
 
-​
-
-Effective Skill Sessions
-
+#### Effective Skill Sessions
 Climbing isn’t a strength sport and it isn’t an endurance sport; it’s a skill sport. This means improving your climbing requires more than just getting stronger – you need to learn to climb better.
 
 For skill drills, repetition is how we learn and ingrain techniques so that they become second nature over time. The more deliberate you can be in your practice of these drills the better.
@@ -263,8 +254,7 @@ One Touch: Climb 2 easy boulders, readjusting as little as possible with your ha
 
 Quiet Feet: Climb 2 easy boulders making as little noise with your feet as possible. Focus on placing the point of your shoe deliberately on the best part of the foothold. The goal here is to practice being precise with your feet.
 
-​
-
+----------
 Homework Assignment
 
 Alright, so now that you know what the sessions look like, you can build your plan!
@@ -279,15 +269,6 @@ With a little time and effort, you’ll have an effective climbing training prog
 
 BUT if you are overwhelmed (and a LOT of people are overwhelmed by all of this) and you don’t want to make a plan for yourself, I totally get it. This stuff is hard.
 
-And I’m here to help you out.
-
-​Check out my Bouldering Training Program​
-
 Like I said, it’s all laid out for you, step by step, cycle by cycle, session by session.
 
 And just because we’re on the last day of the mini-course, don’t think you’re rid of me yet! I’ll be back with another bonus email tomorrow with something special for you, so stay tuned for that.
-
-Until then,
-
-Matt
-
