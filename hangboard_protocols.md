@@ -1,23 +1,16 @@
 
-https://physivantage.com/pages/the-ultimate-guide-to-hangboard-training-for-climbers
+[THE ULTIMATE GUIDE TO HANGBOARD TRAINING FOR CLIMBERS!](https://physivantage.com/pages/the-ultimate-guide-to-hangboard-training-for-climbers)
 
-THE ULTIMATE GUIDE TO HANGBOARD TRAINING FOR CLIMBERS!
-
-FIVE EFFECTIVE HANGBOARD TRAINING PROTOCOLS FOR INCREASING GRIP STRENGTH AND ENDURANCE.
-
+## FIVE EFFECTIVE HANGBOARD TRAINING PROTOCOLS FOR INCREASING GRIP STRENGTH AND ENDURANCE.
+### Introtuction
  
-
-beastmaker wide
- 
-All other things being equal, stronger fingers equals better climbing.
-
-It’s no surprise, then, that hangboard training is the exercise of choice for serious boulderers and sport climbers.
+All other things being equal, stronger fingers equals better climbing. It’s no surprise, then, that hangboard training is the exercise of choice for serious boulderers and sport climbers.
 
 Research studies have documented what thousands of recreational and pro climbers have discovered at home—hangboard training works! Three brief training sessions per week, for four weeks, will yield a noticeable increase in finger strength, especially in those new to hangboard training.
 
 For climbers with a long history of training, however, the gains in finger strength come more slowly. This is where selecting the right hangboard protocol (to target your weakness), dialing in your nutrition (to accelerate recovery and optimize body weight), getting adequate rest, and strengthening tendons become very critical factors. With appropriately nuanced training and attention to the smallest details, you can continue to make small gains in finger strength and endurance for many seasons to come!
 
-Toward this end, I’ve detailed below five proven hangboard training protocols for increasing your maximum grip strength and strength-endurance. I also recommend you explore these articles on performance nutrition for stronger/healthier tendons and optimizing your bodyweight (and strength-to-weight ratio) for peak performance. — Eric Hörst
+Toward this end, I’ve detailed below five proven hangboard training protocols for increasing your maximum grip strength and strength-endurance.
 
 MAXIMUM FINGER STRENGTH PROTOCOLS
 Just as an Olympic sprinter or jumper must develop stronger legs to sprint or jump higher, a serious climber needs to increase finger flexor strength as part of a comprehensive approach to season-over-season improvement. The critical metric for sprinters, jumpers, and climbers is strength-to-weight ratio! Here are three proven protocols for developing more strength in your finger flexors muscles!
