@@ -12,11 +12,10 @@ For climbers with a long history of training, however, the gains in finger stren
 
 Toward this end, I’ve detailed below five proven hangboard training protocols for increasing your maximum grip strength and strength-endurance.
 
-MAXIMUM FINGER STRENGTH PROTOCOLS
+## 1 MAXIMUM FINGER STRENGTH PROTOCOLS
 Just as an Olympic sprinter or jumper must develop stronger legs to sprint or jump higher, a serious climber needs to increase finger flexor strength as part of a comprehensive approach to season-over-season improvement. The critical metric for sprinters, jumpers, and climbers is strength-to-weight ratio! Here are three proven protocols for developing more strength in your finger flexors muscles!
 
-1. MINIMUM EDGE HANGS
-
+### 1.1 MINIMUM EDGE HANGS
 tension simple board
 Based on research by Eva Lopez-Rivera, this protocol is what I recommend as an entry-level hangboard program (not to be confused with a "beginner’s” program—true beginners shouldn't hangboard train). A few multi-week cycles will bring noticeable gains in finger strength for intermediate climbers, as well as serve as preparation for delving into weighted fingerboard hangs (detailed below).
 
@@ -27,8 +26,8 @@ Rest for exactly 3 minutes.
 Do four more hangs following the above protocol to make for a set of five hangs. Each hang should be near maximal, but not quite take you to failure.
 After doing the first set of five hangs, rest for 5 to 10 minutes before doing a second set of five hangs. Initially focus on training the half-crimp and open-crimp grip—one set of each. Advanced climbers can do one or two additional sets that target three-finger drag and the various one- and two-finger pocket grips.
 Keep detailed notes of the holds used and the number of hangs and sets performed.
-2. MAXIMUM WEIGHT 10-SECOND PROTOCOL
 
+### 1.2 MAXIMUM WEIGHT 10-SECOND PROTOCOL
 hangboard weights with loading pin
 As you gain strength from doing the minimum-edge protocol explained above, you’ll eventually come to the point of needing to train on some really small holds that hurt and, perhaps, tempt “dry-firing” (explosively slipping off the finger hold) or injury. It’s at this time (if not sooner) that you should switch to one of the two maximum-weight protocols detailed here.
 
@@ -43,9 +42,8 @@ Rest for exactly 3 minutes.
 Do four more hangs following the above protocol. Each hang should be near maximal (rating of perceived exertion of 9 to 9.5 out of 10), but not quite take you to failure.
 After doing the first set of five hangs, rest at least 5 minutes before doing a second set of five hangs. Initially focus on training the half-crimp and open-crimp grip—one set of each. Advanced climbers can do one or two additional sets that target three-finger drag and the various one- and two-finger pocket grips. Be sure to rest at least 5 minutes between sets, and adjust the amount of weight added for each set (and grip position) to stay within the guidelines detailed above.
 Keep detailed notes of the holds used, weight added, and the number of hangs and sets performed.
-3. MAXIMUM WEIGHT "7-53" PROTOCOL
 
-lattice rung
+### 1.3 MAXIMUM WEIGHT "7-53" PROTOCOL
 This is an advanced maximum-weight protocol that I created to train maximum strength and foster more aerobic power (by stressing the muscles to increase the rate of CP resynthesis during the 53-second rest between maximal hangs). It’s also a very time efficient protocol for elite climbers doing multiple sets. This is my favorite finger-strength protocol!
 
 Do a 7-second weighted hang on a feature that you can barely hold for 10 seconds with maximum effort. I recommend using 14 - 20mm crimp edges, 20 - 30mm two-finger pockets, three-finger drag (photo), and if you’re really strong, monos. As with the previous max-weight hang protocol, your combination of hold and weight-added should make each hang near-maximal.
@@ -53,8 +51,9 @@ Rest for exactly 53 seconds. This way each hang-rest couplet takes exactly 1 min
 Do two more hangs following the above protocol. Each hang should be near maximal (rating of perceived exertion of 9 to 9.5 out of 10), but not quite take you to failure…except, perhaps, on the third hang of a set.
 After doing the first set of three hangs, rest 3 to 5 minutes before doing a second set of three hangs. Initially, focus on training the half-crimp and open-crimp grips—one set each. Advanced climbers can do a second set for each half- and open-crimp grips, plus one or two additional sets that target one- and/or two-finger pockets. Limit yourself to a maximum of six sets.
 Keep detailed notes of the holds used, weight added, and the number of hangs and sets performed.
-STRENGTH-ENDURANCE TRAINING WITH “REPEATERS”
-zlagboard training lisa horst
+
+## 2 STRENGTH-ENDURANCE TRAINING WITH REPEATERS
+
 Strength-endurance is the capacity to maintain a high level of force production throughout repeated efforts lasting up to about one minute in duration. This is the stuff of gripping up long, hard boulder problems and route crux sequences.
 
 Excelling in these strenuous situations demands high neural drive and alactic power, but also a significant anaerobic reserve (anaerobic lactic system). Furthermore, brief “micro rests” between grips and the longer breaks between boulders (and during on-route rests) allow the aerobic energy system to come significantly into play to drive recovery of ATP/CP and efflux of lactate and H+ ions between efforts. Since Repeaters closely mimic these climbing situations—and stress all three bioenergetics systems—it’s the go-to exercise for developing strength-endurance in the finger flexor muscles.
@@ -63,9 +62,7 @@ An important bit of training nuance before we get to the two most popular repeat
 
 The two following protocols are designed according to the latter concept of training all three energy systems nearly equally.
 
-4. REPEATERS - 7/3 PROTOCOL
-
-transgression hangboard for climbers
+### 2.1 REPEATERS - 7/3 PROTOCOL
 This is the go-to Repeater training protocol for top route-climbers around the world! You’ll want to use a timing App to be precise with the 7/3 hang-rest intervals. Keep it crisp—no cheating and no chalking up between hangs. (No, you can’t chalk up in 3 seconds—this is only enough time for a quick shake. If you have sweaty hands that require chalk between hangs, then use the 10/5 protocol below.)
 
 Pick three to seven different grip types to train, and do one to three sets per grip. In addition to the half-crimp and open-crimp grips, select a few others such as two-finger pocket “inside pair”, “middle pair”, and “outside pair”. Strong, veteran climbers can also train monos. Train one grip per set, and cycle through all the different grips as you proceed through your many sets of repeaters. As described above, this route climber’s protocol involves doing ten sets (less trained) to twenty sets (highly trained) on moderate-sized holds and at moderate intensity.
@@ -75,8 +72,8 @@ Do your next set of six 7/3 Repeaters with a different grip position.
 Rest again for one minute.
 Continue in this fashion for a total of 10 to 20 sets. As you fatigue, use larger holds (or remove more weight via pulley counterweight) so that you never pump out or fail on any given set.
 NOTE: Repeater training to preferentially target the anaerobic pathways must utilize high-intensity hangs, although few sets and more rest between sets. Watch this video for an example of a more anaerobic-system-focused 7/3 protocol.
-5. REPEATERS - 10/5 PROTOCOL
 
+### 2.2 REPEATERS - 10/5 PROTOCOL
 two finger pocket beastmaker hangboard photo
 If you’ve got sweaty hands that require frequent chalking, then this is the Repeater protocol for you! It will provide virtually the same training stimulus (i.e. time under tension is 40 seconds per set rather than 42 seconds) and benefits as the 7/3 protocol described above. However, the 5-second rest between hangs is just enough for a quick dip of chalk!
 
@@ -86,4 +83,4 @@ After this one minute of Repeaters, rest for exactly one minute.
 Do your next set of four 10/5 Repeaters with a different grip position.
 Rest again for one minute.
 Continue in this fashion for a total of 10 to 20 sets. As you fatigue, use larger holds (or remove more weight via pulley counterweight) so that you never pump out or fail on any given set.
-For a more anaerobic-system-focused Repeater protocol watch this video.
+
